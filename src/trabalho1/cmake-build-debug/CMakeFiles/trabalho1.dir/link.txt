@@ -1,0 +1,1 @@
+/usr/bin/g++   -g   CMakeFiles/trabalho1.dir/main.cpp.o CMakeFiles/trabalho1.dir/control/Controlador.cpp.o  -o trabalho1 

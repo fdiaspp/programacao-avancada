@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/control/Controlador.cpp
+iostream
+-
+../model/Veiculo.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/model/Veiculo.h
+../model/Carro.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/model/Carro.h
+Controlador.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/control/Controlador.h
+../model/Caminhao.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/model/Caminhao.h
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/control/Controlador.h
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/main.cpp
+control/Controlador.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/control/Controlador.h
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/model/Caminhao.h
+Veiculo.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/model/Veiculo.h
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/model/Carro.h
+Veiculo.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/model/Veiculo.h
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/model/Veiculo.h
+string
+-
+iostream
+-
+
