@@ -46,7 +46,12 @@ public:
     }
 
     void print(){
-        Veiculo::print();
+        cout << "------------------------------------" << endl;
+        cout << "Este eh um Caminhao (" + get_placa() + ")" << endl;
+        cout << "------------------------------------" << endl;
+
+        Veiculo::print_especifico();
+
         cout << "Capacidade: " << get_capacidade() << endl;
         cout << "Comprimento: " << get_comprimento() << endl;
         cout << "Altura: " << get_altura() << endl;

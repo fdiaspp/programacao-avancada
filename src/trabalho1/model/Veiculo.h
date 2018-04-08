@@ -57,12 +57,18 @@ public:
         Veiculo::_preco = int(preco * 100);
     }
 
-
-    virtual void print() {
-
+    virtual void print(){
         cout << "------------------------------------" << endl;
-        cout << "Este eh um veiculo (" + get_placa() + ")" << endl;
+        cout << "Este eh um Veiculo (" + get_placa() + ")" << endl;
         cout << "------------------------------------" << endl;
+        print_especifico();
+    }
+
+
+protected:
+
+    void print_especifico() {
+
         cout << "Peso : " << get_peso() << endl;
         cout << "Velocidade Maxima: " << get_velocidade_maxima() << endl;
         cout << "Preco de Venda: " << get_preco() << endl;

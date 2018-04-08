@@ -17,6 +17,8 @@ Controlador.h
 /home/felipe/CLionProjects/programacao-avancada/src/trabalho1/control/Controlador.h
 ../model/Caminhao.h
 /home/felipe/CLionProjects/programacao-avancada/src/trabalho1/model/Caminhao.h
+../view/VeiculoView.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/view/VeiculoView.h
 
 /home/felipe/CLionProjects/programacao-avancada/src/trabalho1/control/Controlador.h
 
@@ -37,4 +39,8 @@ string
 -
 iostream
 -
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/view/VeiculoView.h
+../model/Veiculo.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/model/Veiculo.h
 

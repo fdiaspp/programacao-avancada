@@ -28,7 +28,13 @@ public:
     }
 
     void print(){
-        Veiculo::print();
+
+        cout << "------------------------------------" << endl;
+        cout << "Este eh um Carro (" + get_placa() + ")" << endl;
+        cout << "------------------------------------" << endl;
+
+        Veiculo::print_especifico();
+
         cout << "Modelo: " << get_modelo() << endl;
         cout << "Cor: " << get_cor() << endl;
 

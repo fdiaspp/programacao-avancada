@@ -102,6 +102,9 @@
 		<Unit filename="/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/model/Veiculo.h">
 			<Option target="trabalho1"/>
 		</Unit>
+		<Unit filename="/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/view/VeiculoView.h">
+			<Option target="trabalho1"/>
+		</Unit>
 		<Unit filename="/home/felipe/CLionProjects/programacao-avancada/src/trabalho1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
