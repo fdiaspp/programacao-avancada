@@ -11,9 +11,31 @@ AppController::AppController() {
 
 void AppController::executa(){
 
-    // this->testePilha();
-    // this->atividade2();
-    this->testePonto();
+
+    int opcao = 0;
+
+    while(true){
+
+        _view.menu();
+
+        cin >> opcao;
+        switch(opcao){
+            case 1:
+                testePilha();
+                break;
+            case 2:
+                atividade2();
+                break;
+            case 3:
+                testePonto();
+                break;
+            default:
+                return;
+        }
+
+    }
+
+
 
 }
 

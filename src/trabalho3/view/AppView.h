@@ -27,6 +27,15 @@ public:
 
     }
 
+    void menu(){
+        cout << " === Trabalho 3 === " << endl;
+        cout << "O que deseja fazer?" << endl;
+        cout << "1. Executar Teste Entidade Pilha" << endl;
+        cout << "2. Executar Atividade 2" << endl;
+        cout << "3. Executar Teste Entidade Ponto" << endl;
+        cout << "Digite sua opcao ou 0 para sair: ";
+    }
+
 };
 
 #endif // _APPVIEW_H_
