@@ -14,7 +14,7 @@ public:
                                          _saldo(0),
                                          _cliente(cliente){
 
-        // Cosntrutor vazio
+        cout << "Criando conta " << _numero << " do cliente " << _cliente->getNome() << endl;
     }
 
     void deposita(float valor) {

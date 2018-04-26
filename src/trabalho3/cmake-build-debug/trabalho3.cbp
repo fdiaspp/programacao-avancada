@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="trabalho3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trabalho3">
+				<Option output="/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/trabalho3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/i386-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/i686-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/i686-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/i386-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 trabalho3"/>
+					<CompileFile command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trabalho3/fast">
+				<Option output="/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/trabalho3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/i386-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/i686-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/i686-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/i386-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 trabalho3/fast"/>
+					<CompileFile command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j2 -f &quot;/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/control/AppController.cpp">
+			<Option target="trabalho3"/>
+		</Unit>
+		<Unit filename="/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/control/AppController.h">
+			<Option target="trabalho3"/>
+		</Unit>
+		<Unit filename="/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/main.cpp">
+			<Option target="trabalho3"/>
+		</Unit>
+		<Unit filename="/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

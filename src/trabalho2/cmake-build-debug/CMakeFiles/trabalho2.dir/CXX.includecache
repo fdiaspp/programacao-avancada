@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/felipe/CLionProjects/programacao-avancada/src/trabalho2/control/BancoController.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho2/control/./BancoController.h
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho2/control/BancoController.cpp
+./BancoController.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho2/control/./BancoController.h
 ../model/ContaCorrente.h
 /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/model/ContaCorrente.h
 ../model/ContaPoupanca.h
@@ -14,9 +18,9 @@
 ../view/ContaView.h
 /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/view/ContaView.h
 
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho2/control/BancoController.h
+
 /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/main.cpp
-iostream
--
 control/BancoController.h
 /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/control/BancoController.h
 

@@ -1,6 +1,3 @@
-//
-// Created by felipe on 08/04/18.
-//
 
 #ifndef _CONTAPOUPANCA_H_
 #define _CONTAPOUPANCA_H_

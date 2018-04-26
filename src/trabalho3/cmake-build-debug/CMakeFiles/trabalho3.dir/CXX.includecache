@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/control/AppController.cpp
+iostream
+-
+../model/Pilha.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/model/Pilha.h
+../model/Ponto.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/model/Ponto.h
+AppController.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/control/AppController.h
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/control/AppController.h
+../view/AppView.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/view/AppView.h
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/main.cpp
+control/AppController.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/control/AppController.h
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/model/Pilha.h
+iostream
+-
+string
+-
+cstdlib
+-
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/model/Ponto.h
+iostream
+-
+
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/view/AppView.h
+../model/Pilha.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/model/Pilha.h
+../model/Ponto.h
+/home/felipe/CLionProjects/programacao-avancada/src/trabalho3/model/Ponto.h
+

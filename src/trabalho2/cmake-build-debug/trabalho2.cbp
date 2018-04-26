@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/felipe/CLionProjects/programacao-avancada/src/trabalho2/control/BancoController.cpp">
+			<Option target="trabalho2"/>
+		</Unit>
+		<Unit filename="/home/felipe/CLionProjects/programacao-avancada/src/trabalho2/control/BancoController.h">
+			<Option target="trabalho2"/>
+		</Unit>
 		<Unit filename="/home/felipe/CLionProjects/programacao-avancada/src/trabalho2/main.cpp">
 			<Option target="trabalho2"/>
 		</Unit>

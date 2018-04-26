@@ -1,6 +1,3 @@
-//
-// Created by felipe on 08/04/18.
-//
 
 #ifndef _CONTACORRENTE_H_
 #define _CONTACORRENTE_H_

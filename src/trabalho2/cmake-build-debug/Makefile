@@ -123,6 +123,33 @@ trabalho2/fast:
 	$(MAKE) -f CMakeFiles/trabalho2.dir/build.make CMakeFiles/trabalho2.dir/build
 .PHONY : trabalho2/fast
 
+control/BancoController.o: control/BancoController.cpp.o
+
+.PHONY : control/BancoController.o
+
+# target to build an object file
+control/BancoController.cpp.o:
+	$(MAKE) -f CMakeFiles/trabalho2.dir/build.make CMakeFiles/trabalho2.dir/control/BancoController.cpp.o
+.PHONY : control/BancoController.cpp.o
+
+control/BancoController.i: control/BancoController.cpp.i
+
+.PHONY : control/BancoController.i
+
+# target to preprocess a source file
+control/BancoController.cpp.i:
+	$(MAKE) -f CMakeFiles/trabalho2.dir/build.make CMakeFiles/trabalho2.dir/control/BancoController.cpp.i
+.PHONY : control/BancoController.cpp.i
+
+control/BancoController.s: control/BancoController.cpp.s
+
+.PHONY : control/BancoController.s
+
+# target to generate assembly for a file
+control/BancoController.cpp.s:
+	$(MAKE) -f CMakeFiles/trabalho2.dir/build.make CMakeFiles/trabalho2.dir/control/BancoController.cpp.s
+.PHONY : control/BancoController.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -155,10 +182,13 @@ help:
 	@echo "The following are some of the valid targets for this Makefile:"
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
-	@echo "... depend"
+	@echo "... depehttps://blog.jetbrains.com/clion/2015/03/new-clion-eap-create-new-class-make-all-biicode/nd"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... trabalho2"
+	@echo "... control/BancoController.o"
+	@echo "... control/BancoController.i"
+	@echo "... control/BancoController.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
