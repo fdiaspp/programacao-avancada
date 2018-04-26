@@ -16,7 +16,8 @@ int main() {
 
     /**
      * Questão 6
-     *
+     * Objeto Conta não aceita ponteiros do tipo ContaCorrente. A solução
+     * foi converter estes ponteiros gerados para o tipo Conta.
      *
      */
 
