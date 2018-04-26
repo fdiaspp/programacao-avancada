@@ -2,9 +2,36 @@
 #include "./BancoController.h"
 #include "../model/ContaCorrente.h"
 #include "../model/ContaPoupanca.h"
-#include "../view/ContaView.h"
 
 using namespace std;
+
+void BancoController::executa(){
+
+
+    while(1){
+
+        _view.menu();
+
+        int opcao;
+        cin >> opcao;
+
+        switch(opcao){
+            case 1:
+                this->atividade3();
+                break;
+            case 2:
+                this->atividade5();
+                break;
+            case 3:
+                this->atividade6();
+                break;
+            default:
+                return;
+        }
+
+    }
+
+}
 
 void BancoController::atividade3(){
 

@@ -4,7 +4,7 @@
 int main() {
 
     BancoController control = BancoController();
-
+    control.executa();
 
     /**
      * Questão 5

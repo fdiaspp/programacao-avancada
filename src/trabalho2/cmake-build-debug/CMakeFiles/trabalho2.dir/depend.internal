@@ -8,7 +8,9 @@ CMakeFiles/trabalho2.dir/control/BancoController.cpp.o
  /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/model/Conta.h
  /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/model/ContaCorrente.h
  /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/model/ContaPoupanca.h
- /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/view/ContaView.h
 CMakeFiles/trabalho2.dir/main.cpp.o
  /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/control/BancoController.h
  /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/main.cpp
+ /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/model/Cliente.h
+ /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/model/Conta.h
+ /home/felipe/CLionProjects/programacao-avancada/src/trabalho2/view/ContaView.h

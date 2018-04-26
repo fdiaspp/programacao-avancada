@@ -7,8 +7,10 @@ CMakeFiles/trabalho2.dir/control/BancoController.cpp.o: ../model/Cliente.h
 CMakeFiles/trabalho2.dir/control/BancoController.cpp.o: ../model/Conta.h
 CMakeFiles/trabalho2.dir/control/BancoController.cpp.o: ../model/ContaCorrente.h
 CMakeFiles/trabalho2.dir/control/BancoController.cpp.o: ../model/ContaPoupanca.h
-CMakeFiles/trabalho2.dir/control/BancoController.cpp.o: ../view/ContaView.h
 
 CMakeFiles/trabalho2.dir/main.cpp.o: ../control/BancoController.h
 CMakeFiles/trabalho2.dir/main.cpp.o: ../main.cpp
+CMakeFiles/trabalho2.dir/main.cpp.o: ../model/Cliente.h
+CMakeFiles/trabalho2.dir/main.cpp.o: ../model/Conta.h
+CMakeFiles/trabalho2.dir/main.cpp.o: ../view/ContaView.h
 
